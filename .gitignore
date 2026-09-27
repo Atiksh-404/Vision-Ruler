@@ -1,0 +1,9 @@
+venv/
+.venv/
+.venv-*/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+tmp/
+debug/
+VisionRuler_Project_Explained_Hinglish.pdf
